@@ -6,13 +6,13 @@
 // ex. input = "hello"
 //     expected result = "hello has 3 consonants and 2 vowels"
 
-// initiate the input value
+// initialize the input value
 let input = "hello";
 
-// intitiate the count variable for vowels
+// initialize the count variable for vowels
 let vowels = 0;
 
-// initiate the count variable for consonants
+// initialize the count variable for consonants
 let consonants = 0;
 
 // go through each letter in the input string
